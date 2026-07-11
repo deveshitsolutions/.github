@@ -9,8 +9,7 @@ We help startups, small businesses and enterprises transform their ideas into po
 </p>
 
 [🌐 Website](https://deveshitsolutions.com) •
-[💼 LinkedIn](https://linkedin.com/company/deveshitsolutions) •
-[📧 Email](mailto:info@deveshitsolutions.com)
+[📧 Email](mailto:deveshitsolutions.com)
 
 </div>
 
@@ -153,11 +152,8 @@ https://deveshitsolutions.com
 
 📧 **Email**
 
-info@deveshitsolutions.com
+deveshitsolutions.com
 
-💼 **LinkedIn**
-
-https://linkedin.com/company/deveshitsolutions
 
 ---
 
