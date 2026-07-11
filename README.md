@@ -9,7 +9,7 @@ We help startups, small businesses and enterprises transform their ideas into po
 </p>
 
 [🌐 Website](https://deveshitsolutions.com) •
-[📧 Email](mailto:deveshitsolutions.com)
+[📧 Email](mailto:deveshitsolutions@gmail.com)
 
 </div>
 
@@ -152,7 +152,7 @@ https://deveshitsolutions.com
 
 📧 **Email**
 
-deveshitsolutions.com
+deveshitsolutions@gmail.com
 
 
 ---
